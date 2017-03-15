@@ -1,5 +1,0 @@
-from tests.application_identity_controller.DELETEv1_applicationIdentityMappings.test import delete_application_identity_mappings_test
-from tests.sign_up_controller.POSTv1_signup.test import post_signup_test
-
-#delete_application_identity_mappings_test()
-post_signup_test()
